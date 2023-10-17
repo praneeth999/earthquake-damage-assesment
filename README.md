@@ -1,1 +1,1 @@
-# earthquake-damage-assesment
+# Post Earthquake-damage-assesment using Deep Learning algorithm
